@@ -1,0 +1,11 @@
+{
+  "name": "it120-midterm-project",
+  "version": "1.0.0",
+  "description": "Chat/Messaging Applications",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shekainah Grace Llimet and Shiena Cedro",
+  "license": "ISC"
+}
